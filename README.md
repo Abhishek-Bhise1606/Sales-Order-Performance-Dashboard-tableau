@@ -90,13 +90,13 @@ Business Performance Analysis
 KPI Design & Financial Metrics
 
 ## 🖼️ Dashboard Preview
-https://github.com/Abhishek-Bhise1606/Sales-Order-Performance-Dashboard-tableau/blob/main/Sales-Order-Performance-Dashboard-tableau.png
-
+<img src="https://github.com/Abhishek-Bhise1606/Sales-Order-Performance-Dashboard-tableau/blob/main/Sales-Order-Performance-Dashboard-tableau.png
+" width="80">
 ## 📌 Conclusion
 
 This dashboard offers a holistic view of business performance, enabling stakeholders to:
 
-Track profitability
+Track profitabilit
 
 Control operational costs
 
